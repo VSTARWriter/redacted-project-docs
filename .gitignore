@@ -1,0 +1,38 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docusaurus (if using)
+node_modules/
+.docusaurus/
+build/
+.cache-loader/
+
+# Local development
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+*.log

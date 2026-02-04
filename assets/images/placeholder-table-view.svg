@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8fafc"/>
+  <rect width="800" height="400" fill="url(#grid)"/>
+  
+  <!-- Header bar -->
+  <rect x="0" y="0" width="800" height="56" fill="#1e293b"/>
+  <rect x="16" y="16" width="24" height="24" rx="4" fill="#64748b"/>
+  <rect x="56" y="20" width="120" height="16" rx="2" fill="#64748b"/>
+  
+  <!-- Main content area -->
+  <rect x="24" y="80" width="752" height="48" rx="8" fill="#e2e8f0"/>
+  <text x="400" y="110" text-anchor="middle" fill="#64748b" font-family="system-ui" font-size="14">Search / Filter Area</text>
+  
+  <!-- Table header -->
+  <rect x="24" y="152" width="752" height="40" rx="4" fill="#cbd5e1"/>
+  <text x="80" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 1</text>
+  <text x="200" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 2</text>
+  <text x="320" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 3</text>
+  <text x="440" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 4</text>
+  <text x="560" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 5</text>
+  <text x="680" y="178" fill="#475569" font-family="system-ui" font-size="12">Column 6</text>
+  
+  <!-- Table rows -->
+  <rect x="24" y="196" width="752" height="40" fill="#ffffff"/>
+  <rect x="24" y="240" width="752" height="40" fill="#f8fafc"/>
+  <rect x="24" y="284" width="752" height="40" fill="#ffffff"/>
+  <rect x="24" y="328" width="752" height="40" fill="#f8fafc"/>
+  
+  <!-- Placeholder indicator -->
+  <rect x="280" y="360" width="240" height="28" rx="14" fill="#94a3b8"/>
+  <text x="400" y="379" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="11" font-weight="500">Screenshot Placeholder</text>
+</svg>

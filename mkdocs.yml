@@ -1,0 +1,109 @@
+site_name: Project Documentation Documentation
+site_description: User documentation for the Canada Fleet Manager application
+# UPDATE: Replace 'your-username' with your GitHub username
+site_url: https://your-username.github.io/redacted-project-docs/
+repo_url: https://github.com/your-username/redacted-project-docs
+repo_name: redacted-project-docs
+edit_uri: edit/main/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - content/getting-started/index.md
+    - Quick Start: content/getting-started/quick-start.md
+    - Logging In: content/getting-started/login.md
+    - Navigation: content/getting-started/navigation.md
+  - User Roles:
+    - content/roles/index.md
+    - Inventory Manager: content/roles/inventory-manager.md
+    - Field Sales: content/roles/field-sales.md
+    - Billing: content/roles/billing.md
+    - Rep Manager: content/roles/rep-manager.md
+    - Viewer: content/roles/viewer.md
+    - Account Rep: content/roles/account-rep.md
+    - Finance: content/roles/finance.md
+  - Views Reference:
+    - content/views/index.md
+    - Inventory Management: content/views/inventory-management.md
+    - My Bits: content/views/my-bits.md
+    - Find Bits: content/views/find-bits.md
+    - Transactions: content/views/transactions.md
+    - Nav History: content/views/nav-history.md
+    - eTransfer Tickets: content/views/etransfer-tickets.md
+    - eBilling Workbench: content/views/ebilling-workbench.md
+    - Add/Edit Customer Rep: content/views/add-edit-customer-rep.md
+  - Common Features:
+    - content/features/index.md
+    - Profile Settings: content/features/profile.md
+    - Dark/Light Mode: content/features/theme.md
+    - Language Settings: content/features/language.md
+    - Messages: content/features/messages.md
+    - Searching & Filtering: content/features/search-filter.md
+  - Installation:
+    - content/installation/index.md
+    - Desktop: content/installation/desktop.md
+    - Mobile/iPad: content/installation/mobile.md
+  - Admin Guide:
+    - content/admin/index.md
+    - User Management: content/admin/user-management.md
+    - Permissions: content/admin/permissions.md
+    - Permissions Matrix: content/admin/permissions-matrix.md
+  - Reference:
+    - Changelog: content/reference/changelog.md
+    - Glossary: content/reference/glossary.md
+    - Support: content/reference/support.md
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:helpdesk@example.com
