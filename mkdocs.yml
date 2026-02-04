@@ -1,4 +1,4 @@
-site_name: Project Documentation
+site_name: Asset Msnagement
 site_url: https://vstarwriter.github.io/redacted-project-docs/
 repo_url: https://github.com/VSTARWriter/redacted-project-docs
 
@@ -19,7 +19,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: index.md
+  - Dashboard: index.md
   - Getting Started:
     - Overview: getting-started/index.md
     - Quick Start: getting-started/quick-start.md
