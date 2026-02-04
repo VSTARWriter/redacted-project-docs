@@ -1,24 +1,10 @@
 # Asset Management Information Dashboard
 
-Welcome to the Asset Management Information Dashboard. Here you can find links to role and task documentation.
+Welcome to the Asset Management Information Dashboard. Here you can find links to common task procedures, functional instructions by user role, and other important information.
 
 ---
 
-## By User Role
-
-| Role | Description |
-|------|-------------|
-| [Inventory Manager](roles/inventory-manager.md) | Manage bit inventory, transfers, and stock |
-| [Field Sales](roles/field-sales.md) | Field operations, deliveries, and billing |
-| [Billing](roles/billing.md) | Service receipts and invoicing |
-| [Rep Manager](roles/rep-manager.md) | Manage customer representatives |
-| [Viewer](roles/viewer.md) | Read-only access to bit information |
-| [Account Rep](roles/account-rep.md) | View billing for assigned accounts |
-| [Finance](roles/finance.md) | Financial reporting and data review |
-
----
-
-## Common Tasks (How To)
+## Common Tasks
 
 ### Transfers
 
@@ -48,6 +34,20 @@ Welcome to the Asset Management Information Dashboard. Here you can find links t
 
 - [Pick Up Bits](how-to/pickup-bits.md)
 - [Pick Up DBR or LIH Bits](how-to/pickup-dbr-lih.md)
+
+---
+
+## User Roles
+
+| Role | Description |
+|------|-------------|
+| [Inventory Manager](roles/inventory-manager.md) | Manage bit inventory, transfers, and stock |
+| [Field Sales](roles/field-sales.md) | Field operations, deliveries, and billing |
+| [Billing](roles/billing.md) | Service receipts and invoicing |
+| [Rep Manager](roles/rep-manager.md) | Manage customer representatives |
+| [Viewer](roles/viewer.md) | Read-only access to bit information |
+| [Account Rep](roles/account-rep.md) | View billing for assigned accounts |
+| [Finance](roles/finance.md) | Financial reporting and data review |
 
 ---
 
