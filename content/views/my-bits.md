@@ -41,16 +41,15 @@ Three scan options are available below the Active Location:
     
     Click column headers to sort:
 
-    1. Click to the left of the funnel icon.
-    2. Sort arrows appear
-    3. Click up/down to sort.
+    1. Click to the left of the funnel icon in a column header to reveal the sort arrows.
+    2. Click up/down to sort ascending or descending.
 
 === "Mobile"
     
     Use the Sort Order button:
 
-    1. Tap **Sort Order**
-    2. Choose sort options
+    1. Tap **Sort Order**.
+    2. Choose sort options.
     3. Tap **Sort** or **Sort and Save Sort Order**.
 
 ### Filtering
