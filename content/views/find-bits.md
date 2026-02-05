@@ -57,7 +57,7 @@ Use Find Bits when you need to:
 
 1. Navigate to **Find Bits** from the left menu (or click **Find Bits** button if available).
 2. Set your filters (at minimum, set **Bit Status** and **Company**).
-3. Click **Search**
+3. Click the **Search** button.
 4. Results display in the table below.
 
 ### Viewing Results
@@ -65,7 +65,7 @@ Use Find Bits when you need to:
 The results table supports:
 
 - **Global search** — Search any field in the results.
-- **Column sorting** — Click column headers to sort.
+- **Column sorting** — Click the column headers to sort.
 - **Column filtering** — Click the funnel icon to filter by specific values.
 - **Clear filter-sort** — Reset all table filters and sorting.
 
