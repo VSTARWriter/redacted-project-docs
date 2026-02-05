@@ -51,7 +51,7 @@ This section shows transfers sent to you by others.
 
 1. Set date range if needed.
 2. Toggle between Pending and Received.
-3. Review incoming transfers
+3. Review incoming bit transfers.
 
 ### Accepting Transfers
 
