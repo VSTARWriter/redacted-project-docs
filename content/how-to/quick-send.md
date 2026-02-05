@@ -10,7 +10,7 @@ Use this method to rapidly transfer a bit without navigating through multiple sc
 
 ## Steps
 
-1. Navigate to **Find Bits** or **My Bits**.
+1. Navigate to the **Find Bits** or **My Bits** view from the left menu.
 2. Locate the bit you want to send.
 3. Click on the bit row to open Bit Details.
 4. Click **Quick Send** (or **Send**).
