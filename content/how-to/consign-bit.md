@@ -5,30 +5,29 @@ Place a bit with a customer under consignment terms.
 ## Prerequisites
 
 - Field Sales role
-- Access to My Bits view
 - Bit is in your inventory and available.
 
 ## Steps
 
-1. Navigate to **My Bits**.
-2. Find the bit you want to consign.
+1. Navigate to the **My Bits** view from the left menu.
+2. Find the bit you want to consign in the results table.
 3. Click on the bit row to open Bit Details.
-4. Click **Consign**
+4. Click the **Consign** button.
 5. Enter the consignment details:
-   - Customer name
-   - Well name and location
-   - Consignment terms
-   - Any special notes
-6. Review all information
-7. Click **Submit**
+    - Customer name
+    - Well name and location
+    - Consignment terms
+    - Any special notes
+6. Verify all information.
+7. Click the **Submit** button.
 
 ## Consignment Information
 
 When consigning a bit, provide:
 
-- Customer receiving the bit
+- Customer receiving the bit.
 - Location where the bit will be held.
-- Expected duration (if applicable)
+- Expected duration (if known).
 - Any contractual terms or conditions.
 
 ## After Consigning
