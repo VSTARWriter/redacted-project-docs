@@ -4,7 +4,7 @@ View in-app notifications and messages.
 
 ## Accessing Messages
 
-1. Open the navigation menu (click **☰**).
+1. Click **☰** (hamburger) menu icon at the top left.
 2. Click **Messages**
 3. View your message list.
 
@@ -12,14 +12,14 @@ View in-app notifications and messages.
 
 Messages may include:
 
-- System notifications
-- Transfer alerts
-- Workflow updates
-- Important announcements
+    - System notifications
+    - Transfer alerts
+    - Workflow updates
+    - Important announcements
 
 ## Reading Messages
 
-1. Click on a message to view details.
+1. Click on a message to view its details.
 2. New/unread messages are highlighted.
 3. Messages are marked as read after viewing.
 
@@ -27,8 +27,8 @@ Messages may include:
 
 Look for notification badges or indicators that show:
 
-- Number of unread messages
-- New message alerts
+    - Number of unread messages
+    - New message alerts
 
 ## Related Documentation
 
