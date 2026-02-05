@@ -22,14 +22,14 @@ The table below shows which views each role can access:
 |------|:--------:|:-----------:|:-------:|:-------:|:------:|:--------:|:-------:|
 | Inventory Management | ✅ | — | — | — | — | — | — |
 | My Bits | — | ✅ | — | — | — | — | — |
-| Find Bits | ✅ | ✅ | ✅ | — | ✅^1^ | ✅ | ✅ |
+| Find Bits | ✅ | ✅ | ✅ | — | ✅* | ✅ | ✅ |
 | Transactions | ✅ | — | — | — | — | — | — |
 | Nav History | ✅ | — | — | — | ✅ | — | ✅ |
 | eTransfer Tickets | ✅ | ✅ | — | — | — | — | — |
 | eBilling Workbench | — | ✅ | ✅ | — | — | ✅ | ✅ |
 | Add/Edit Customer Rep | — | — | ✅ | ✅ | — | — | — |
 
-^1^ Viewer role has access to a "lite" version of Find Bits
+* Viewer role has access to a "lite" version of Find Bits
 
 ## Common Features
 
