@@ -1,5 +1,4 @@
-nano mkdocs.ymlnano mkdocs.ymlnano mkdocs.ymlsite_name: Asset Management
-
+site_name: Asset Management
 theme:
   name: material
   features:
