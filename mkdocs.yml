@@ -1,4 +1,4 @@
-site_name: Asset Management
+nano mkdocs.ymlnano mkdocs.ymlnano mkdocs.ymlsite_name: Asset Management
 
 theme:
   name: material
@@ -62,6 +62,7 @@ nav:
     - eBilling Workbench: views/ebilling-workbench.md
     - Add/Edit Customer Rep: views/add-edit-customer-rep.md
   - How To:
+    - Overview: how-to/index.md
     - Transfers:
       - Accept a Transfer: how-to/accept-transfer.md
       - Send Bits to Sales: how-to/send-bits-sales.md

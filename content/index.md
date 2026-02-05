@@ -1,59 +1,71 @@
-# Asset Management Information Dashboard
+# Asset Management
 
-Welcome to the Asset Management Information Dashboard. Here you can find links to common task procedures, functional instructions by user role, and other important information.
-
----
-
-## Common Tasks
-
-### Transfers
-
-- [Accept Bits Sent To You](how-to/accept-transfer.md)
-- [Send Bits to a Field Salesperson](how-to/send-bits-sales.md)
-- [Send Bits to Another Sales Rep](how-to/send-bits-rep.md)
-- [Quickly Send a Bit](how-to/quick-send.md)
-- [Return Bits to Warehouse](how-to/return-bits.md)
-
-### Inventory
-
-- [Lock a Bit](how-to/lock-bit.md)
-- [Unlock a Bit](how-to/unlock-bit.md)
-- [Submit a Bit Order](how-to/submit-bit-order.md)
-- [Process a Bit Order](how-to/process-bit-order.md)
-- [Find a Bit (Where Is My Bit?)](how-to/find-my-bit.md)
-
-### Billing & Tickets
-
-- [Create a Delivery Ticket](how-to/create-delivery-ticket.md)
-- [Add Bit to Existing Ticket](how-to/add-bit-ticket.md)
-- [Create Service Receipt](how-to/create-sr-ticket.md)
-- [Find Tickets](how-to/find-tickets.md)
-- [Consign a Bit](how-to/consign-bit.md)
-
-### Pickups
-
-- [Pick Up Bits](how-to/pickup-bits.md)
-- [Pick Up DBR or LIH Bits](how-to/pickup-dbr-lih.md)
+Your central resource for application documentation, procedures, and reference material.
 
 ---
 
-## User Roles
+## :material-account-group: User Roles
 
-| Role | Description |
-|------|-------------|
-| [Inventory Manager](roles/inventory-manager.md) | Manage bit inventory, transfers, and stock |
-| [Field Sales](roles/field-sales.md) | Field operations, deliveries, and billing |
-| [Billing](roles/billing.md) | Service receipts and invoicing |
-| [Rep Manager](roles/rep-manager.md) | Manage customer representatives |
-| [Viewer](roles/viewer.md) | Read-only access to bit information |
-| [Account Rep](roles/account-rep.md) | View billing for assigned accounts |
-| [Finance](roles/finance.md) | Financial reporting and data review |
+| Role | Home View | Description |
+|------|-----------|-------------|
+| [Inventory Manager](roles/inventory-manager.md) | Inventory Management | Stock, transfers, and orders |
+| [Field Sales](roles/field-sales.md) | My Bits | Deliveries, tickets, and billing |
+| [Billing](roles/billing.md) | eBilling Workbench | Service receipts and invoicing |
+| [Rep Manager](roles/rep-manager.md) | Add/Edit Customer Rep | Customer rep records |
+| [Viewer](roles/viewer.md) | Find Bits (Lite) | Read-only bit lookup |
+| [Account Rep](roles/account-rep.md) | eBilling Workbench | View billing for accounts |
+| [Finance](roles/finance.md) | eBilling Workbench | Financial data and reports |
 
 ---
 
-## Quick Links
+<div class="grid cards" markdown>
 
-- [Installation Guide](installation/index.md) - Desktop and mobile setup
-- [Searching & Filtering](features/search-filter.md) - How to find data
-- [Permissions Matrix](admin/permissions-matrix.md) - What each role can do
-- [Changelog](reference/changelog.md) - Recent updates
+- :material-rocket-launch:{ .lg .middle } __Getting Started__
+
+    ---
+
+    Install, log in, and set up your profile
+
+    [:octicons-arrow-right-24: Get started](getting-started/index.md)
+
+- :material-clipboard-list:{ .lg .middle } __How-To Procedures__
+
+    ---
+
+    Step-by-step guides for transfers, billing, and more
+
+    [:octicons-arrow-right-24: View procedures](how-to/index.md)
+
+- :material-monitor:{ .lg .middle } __Views Reference__
+
+    ---
+
+    Detailed guide for every screen in the app
+
+    [:octicons-arrow-right-24: View reference](views/index.md)
+
+- :material-download:{ .lg .middle } __Installation__
+
+    ---
+
+    Desktop and mobile setup instructions
+
+    [:octicons-arrow-right-24: Install guide](installation/index.md)
+
+- :material-shield-lock:{ .lg .middle } __Permissions__
+
+    ---
+
+    What each role can do at every billing status
+
+    [:octicons-arrow-right-24: Permissions matrix](admin/permissions-matrix.md)
+
+- :material-lifebuoy:{ .lg .middle } __Support__
+
+    ---
+
+    Troubleshooting, glossary, and changelog
+
+    [:octicons-arrow-right-24: Get help](reference/support.md)
+
+</div>
