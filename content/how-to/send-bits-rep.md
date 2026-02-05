@@ -10,9 +10,9 @@ Transfer bits from your inventory to another sales representative.
 
 ## Steps
 
-1. Navigate to **My Bits**.
-2. Find the bit you want to send.
-3. Click on the bit row to open Bit Details.
+1. Navigate to the **My Bits** view from the left menu.
+2. Find the bit(s) you want to send.
+3. Click on the bit row(s) to open Bit Details.
 4. Click **Send** or **Transfer**.
 5. Select the recipient sales rep from the dropdown.
 6. Confirm the transfer details.
@@ -22,7 +22,7 @@ Transfer bits from your inventory to another sales representative.
 
 The recipient dropdown shows:
 
-- Sales reps in your district
+- Sales reps in your district.
 - Sales reps in other districts (if permitted).
 
 ## After Sending
@@ -34,9 +34,9 @@ The recipient dropdown shows:
 
 ## Canceling a Pending Transfer
 
-If needed before acceptance:
+To cancel a transfer before it is accepted:
 
-1. Go to **eTransfer Tickets**
+1. Navigate to the **eTransfer Tickets** view.
 2. Find the transfer in **Initiated eTransfers**.
 3. Click to open details.
 4. Click **Cancel** if available.
