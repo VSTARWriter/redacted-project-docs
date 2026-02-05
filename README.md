@@ -1,9 +1,9 @@
-# Project Documentation Documentation
+# Asset Management Documentation
 
 > **Version:** C_2025.05.001  
 > **Last Updated:** June 9, 2025
 
-A modern, modular documentation system for the Canada Fleet Manager application.
+A modern, modular documentation system for the Asset Management application.
 
 [![Deploy Documentation](https://github.com/your-username/redacted-project-docs/actions/workflows/deploy.yml/badge.svg)](https://github.com/your-username/redacted-project-docs/actions/workflows/deploy.yml)
 
