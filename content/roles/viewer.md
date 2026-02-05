@@ -26,7 +26,7 @@ As a Viewer, you have access to:
 
 1. Navigate to the login page.
 2. Enter your **Username** and **Password**.
-3. Click **Log In**
+3. Click the **Log In** button.
 
 You will be taken directly to the Find Bits (Lite) view.
 
@@ -41,33 +41,33 @@ Access additional views through the left navigation menu:
 
 ### Searching for Bits
 
-1. Go to **Find Bits** view
+1. Navigate to the **Find Bits** view.
 2. Set your search filters:
    - Serial or Item Number
    - Bit Status
    - Company
    - Location filters
-3. Click **Search**
+3. Click the **Search** button.
 4. Click any row to view bit details.
 
 ### Viewing Transaction History
 
-1. Go to **Nav History Transactions**
+1. Navigate to the **Nav History Transactions** view.
 2. Set your filters:
    - District
    - Location
    - Serial number
    - Date range
-3. Click **Apply Filters**
+3. Click the **Apply Filters** button.
 
 ## Limitations
 
 As a Viewer, you **cannot**:
 
 - Create or edit tickets.
-- Transfer bits
-- Modify bit status
-- Update records
+- Transfer bits.
+- Modify bit status.
+- Update records.
 
 ## Related Documentation
 
