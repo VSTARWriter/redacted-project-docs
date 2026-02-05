@@ -25,10 +25,11 @@ As an Inventory Manager, you have access to:
 ### Logging In
 
 1. Navigate to the login page.
-2. Enter your **Username** and **Password**.
-3. Click **Log In**
+2. Enter your **Username**.
+3. Enter your **Password**.
+4. Click the **Log In** button.
 
-You will be taken directly to the Inventory Management view.
+You will be taken directly to the [Inventory Management](../views/inventory-management.md) view.
 
 !!! tip "First Time Setup"
     On your first login, you'll need to configure your Profile settings including your Active District, Location, and Stockpoint.
@@ -62,9 +63,9 @@ Access additional views through the left navigation menu:
 
 When bits are sent to your location:
 
-1. Go to **eTransfer Tickets** view
+1. Navigate to the **eTransfer Tickets** view.
 2. Check the **Received eTransfers** section.
-3. Review pending transfers
+3. Review any pending transfers.
 4. Accept or reject as appropriate.
 
 [Learn more about accepting transfers :material-arrow-right:](../how-to/accept-transfer.md){ .md-button }
