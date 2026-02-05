@@ -1,16 +1,6 @@
 # Logging In
 
-How to access the application.
-
-## Prerequisites
-
-Before logging in, ensure you have:
-
-- Application installed ([Desktop](../installation/desktop.md) or [Mobile](../installation/mobile.md))
-- Active network account
-- Multi-factor authentication configured
-
-## Login Steps
+Follow these steps to access the Asset Management application.
 
 ### Step 1: Open the Application
 
