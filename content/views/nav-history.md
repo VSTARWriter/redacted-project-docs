@@ -65,9 +65,9 @@ Click **Clear filter-sort** to reset table sorting and filtering.
 ## Common Uses
 
 - Track where a specific bit has been.
-- Research transaction history
-- Audit inventory movements
-- Investigate discrepancies
+- Research a bit's transaction history.
+- Audit inventory movements.
+- Investigate discrepancies.
 
 ## Related Documentation
 
