@@ -10,13 +10,13 @@ Return bits from field inventory back to the central warehouse.
 
 ## Steps
 
-1. Navigate to **Inventory Management** or **My Bits**.
+1. Navigate to the **Inventory Management** or **My Bits** views from the left menu.
 2. Find the bit you want to return.
 3. Click on the bit row to open Bit Details.
-4. Click **Return to Warehouse** (or **Send**).
+4. Click **Return to Warehouse** or **Send**.
 5. Select the warehouse location as the destination.
 6. Confirm the transfer details.
-7. Click **Submit**
+7. Click the **Submit** button.
 
 ## When to Return Bits
 
@@ -24,8 +24,8 @@ Return bits when:
 
 - Customer no longer needs the bit.
 - Bit needs inspection or maintenance.
-- Reallocating inventory
-- End of project or job
+- Reallocating inventory.
+- End of project or job,
 
 ## After Returning
 
