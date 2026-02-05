@@ -30,7 +30,7 @@ Most views have quick action buttons at the top:
 - **Home** — Return to your home view.
 - **Find Bits** — Search for bits.
 - **Transactions** — View transactions (if available).
-- View-specific actions
+- Any view-specific actions.
 
 ### Breadcrumbs
 
