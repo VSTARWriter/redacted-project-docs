@@ -36,4 +36,7 @@ After sending:
 
 ## Related Documentation
 
-- [Fi
+- [Find Bits View](../views/find-bits.md)
+- [My Bits View](../views/my-bits.md)
+- [eTransfer Tickets View](../views/etransfer-tickets.md)
+- [How to Accept Bits That Were Sent To You](accept-transfer.md)

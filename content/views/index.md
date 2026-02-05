@@ -1,6 +1,6 @@
 # Views Reference
 
-This section documents each view available in Project Documentation. Views are the main screens where you perform tasks within the application.
+This section documents each view available in Asset Management. Views are the main screens where you perform tasks within the application.
 
 ## View Availability by Role
 

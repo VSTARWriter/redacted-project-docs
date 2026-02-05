@@ -39,4 +39,18 @@ A delivery ticket typically includes:
 - You can add additional bits to the ticket if needed
 - Proceed with service receipt creation when ready
 
-## Adding Tariff Su
+## Adding Tariff Surcharge
+
+If a tariff surcharge applies:
+
+1. Look for the **Tariff Surcharge** toggle on the delivery ticket
+2. Enable the toggle to add the surcharge
+3. The surcharge is included in the billing documentation
+
+## Related Documentation
+
+- [My Bits View](../views/my-bits.md)
+- [How to Add a Bit to an Existing Ticket](add-bit-ticket.md)
+- [How to Create Service Receipt Tickets](create-sr-ticket.md)
+- [eBilling Workbench View](../views/ebilling-workbench.md)
+- [Field Sales Role](../roles/field-sales.md)

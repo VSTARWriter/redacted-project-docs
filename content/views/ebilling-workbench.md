@@ -103,13 +103,13 @@ Click any ticket line to open the **Line Action Menu**.
 
 | Action | Billed | Reviewed/Approved | Approved & Locked | Invoiced |
 |--------|:------:|:-----------------:|:-----------------:|:--------:|
-| Edit Well Information | ✅ | ✅^1^ | ❌ | ❌ |
+| Edit Well Information | ✅ | ✅* | ❌ | ❌ |
 | Print/Share SR Billing PDF | ✅ | ✅ | ✅ | ✅ |
 | Print/Share SR Bit Runs PDF | ✅ | ✅ | ✅ | ✅ |
-| Add Stamped PDF/Photo | ✅ | ✅^1^ | ❌ | ❌ |
+| Add Stamped PDF/Photo | ✅ | ✅* | ❌ | ❌ |
 | View Service Receipt Lines | ✅ | ✅ | ✅ | ✅ |
 
-^1^ Billing role only; Field Sales has view-only access at this status
+*Billing role only; Field Sales has view-only access at this status
 
 ### Printing PDFs
 

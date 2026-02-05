@@ -31,4 +31,12 @@ To send multiple bits at once:
 ## After Sending
 
 - Bits appear in your **Initiated eTransfers** as Pending
-- The salesperson receives the
+- The salesperson receives the transfer in their **Received eTransfers**
+- Once accepted, the bits move to the salesperson's inventory
+
+## Related Documentation
+
+- [Inventory Management View](../views/inventory-management.md)
+- [eTransfer Tickets View](../views/etransfer-tickets.md)
+- [How to Accept Bits That Were Sent To You](accept-transfer.md)
+- [Inventory Manager Role](../roles/inventory-manager.md)

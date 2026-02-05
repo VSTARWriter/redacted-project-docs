@@ -37,4 +37,17 @@ When picking up a bit, document:
 - The bit returns to your inventory
 - You can return it to warehouse or reassign
 
-## Next Steps After
+## Next Steps After Pickup
+
+Depending on the situation:
+
+- **Return to warehouse** — [Send Bits Back to the Warehouse](return-bits.md)
+- **Reassign** — [Send Bits to Another Sales Rep](send-bits-rep.md)
+- **Damaged** — [Pick Up DBR or LIH Bits](pickup-dbr-lih.md)
+
+## Related Documentation
+
+- [eBilling Workbench View](../views/ebilling-workbench.md)
+- [How to Pick Up DBR or LIH Bits](pickup-dbr-lih.md)
+- [Field Sales Role](../roles/field-sales.md)
+- [Billing Role](../roles/billing.md)

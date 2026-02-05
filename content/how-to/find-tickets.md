@@ -12,14 +12,14 @@ Locate specific tickets in the eBilling Workbench.
 1. Navigate to **eBilling Workbench**
 2. Click the **EBILLING FILTER** dropdown
 3. Select a filter option:
-   - **Active Tickets** - Current active tickets
-   - **My Tickets** - Tickets assigned to you
-   - **Show History** - Invoiced tickets
-   - **Approved and Locked** - Locked tickets
-   - **Created Date Range** - Filter by creation date
-   - **Updated Date Range** - Filter by update date
-   - **Serial Number** - Search by specific serial
-   - **Ready to Review** - Tickets pending review
+   - **Active Tickets** — Current active tickets
+   - **My Tickets** — Tickets assigned to you
+   - **Show History** — Invoiced tickets
+   - **Approved and Locked** — Locked tickets
+   - **Created Date Range** — Filter by creation date
+   - **Updated Date Range** — Filter by update date
+   - **Serial Number** — Search by specific serial
+   - **Ready to Review** — Tickets pending review
 
 ## Searching by Serial Number
 
@@ -51,5 +51,13 @@ If you use certain filters frequently:
 
 If you're not seeing expected results:
 
-1. Click **Clear filter** to reset
-2. Start
+1. Click **Clear filter** to reset eBilling and Sales Person filters
+2. Click **Clear filter-sort** to reset table sorting and column filters
+3. Start your search again with fresh filters
+
+## Related Documentation
+
+- [eBilling Workbench View](../views/ebilling-workbench.md)
+- [Searching and Filtering Data](../features/search-filter.md)
+- [Billing Role](../roles/billing.md)
+- [Field Sales Role](../roles/field-sales.md)

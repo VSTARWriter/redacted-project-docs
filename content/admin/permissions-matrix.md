@@ -9,12 +9,12 @@ This reference documents the specific permissions each role has within the Servi
 | Well Information | Editable | View Only | View Only | View Only |
 | Print/Share SR Billing PDF | ✅ | ✅ | ✅ | ✅ |
 | Print/Share SR Run PDF | ✅ | ✅ | ✅ | ✅ |
-| Add Stamped PDF/Photo | Edit | View^1^ | View^1^ | View^1^ |
-| Add Competitor's Bit Run Data | Edit | View^1^ | View^1^ | View^1^ |
+| Add Stamped PDF/Photo | Edit | View* | View* | View* |
+| Add Competitor's Bit Run Data | Edit | View* | View* | View* |
 | Service Receipt Lines | ✅ | ✅ | ✅ | ✅ |
 | Edit Nav Service Receipt Date | ✅ | — | — | — |
 
-^1^ "View" only appears when PDF/Photo has been uploaded; otherwise not visible
+*"View" only appears when PDF/Photo has been uploaded; otherwise not visible
 
 ## Billing Permissions
 
@@ -23,12 +23,12 @@ This reference documents the specific permissions each role has within the Servi
 | Well Information | Editable | Editable | View Only | View Only |
 | Print/Share SR Billing PDF | ✅ | ✅ | ✅ | ✅ |
 | Print/Share SR Run PDF | ✅ | ✅ | ✅ | ✅ |
-| Add Stamped PDF/Photo | Edit | Edit | View^1^ | View^1^ |
-| Add Competitor's Bit Run Data | Edit | Edit | View^1^ | View^1^ |
+| Add Stamped PDF/Photo | Edit | Edit | View* | View* |
+| Add Competitor's Bit Run Data | Edit | Edit | View* | View* |
 | Update National Account Rep | ✅ | ✅ | — | — |
 | Service Receipt Lines | ✅ | ✅ | ✅ | ✅ |
 
-^1^ "View" only appears when PDF/Photo has been uploaded; otherwise not visible
+*"View" only appears when PDF/Photo has been uploaded; otherwise not visible
 
 ## Account Rep & Finance Permissions
 
@@ -40,11 +40,11 @@ This reference documents the specific permissions each role has within the Servi
 | Well Information | View Only | View Only | View Only | View Only |
 | Print/Share SR Billing PDF | ✅ | ✅ | ✅ | ✅ |
 | Print/Share SR Run PDF | ✅ | ✅ | ✅ | ✅ |
-| View Stamped PDF/Photo | —^1^ | —^1^ | —^1^ | —^1^ |
-| View Competitor's Bit Run Data | —^1^ | —^1^ | —^1^ | —^1^ |
+| View Stamped PDF/Photo | —* | —* | —* | —* |
+| View Competitor's Bit Run Data | —* | —* | —* | —* |
 | Service Receipt Lines | ✅ | ✅ | ✅ | ✅ |
 
-^1^ Not visible unless content has been uploaded
+*Not visible unless content has been uploaded
 
 ## Understanding Status Progression
 

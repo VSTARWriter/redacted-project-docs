@@ -44,4 +44,6 @@ To check order status:
 ## Related Documentation
 
 - [My Bits View](../views/my-bits.md)
-- [Field Sales Role](../ro
+- [Field Sales Role](../roles/field-sales.md)
+- [How to Accept Bits That Were Sent To You](accept-transfer.md)
+- [How to Process a Bit Order](process-bit-order.md)
