@@ -84,10 +84,10 @@ Where available, use the **Export to CSV** button to download data for analysis.
 
 As a Finance user, you **cannot**:
 
-- Edit well information
+- Edit well information.
 - Add or modify PDFs/photos.
 - Create or modify tickets.
-- Perform transfers
+- Perform any bit transfers.
 
 ## Related Documentation
 
