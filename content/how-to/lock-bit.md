@@ -9,7 +9,7 @@ Locking a bit prevents it from being transferred while you're processing it or w
 
 ## Steps
 
-1. Navigate to **Inventory Management**.
+1. Navigate to the **Inventory Management** view from the left menu.
 2. Find the bit you want to lock using search or filters.
 3. Click on the bit row to open Bit Details.
 4. Click **Lock** 
@@ -21,8 +21,8 @@ Lock bits when:
 
 - Processing paperwork for the bit.
 - Waiting for customer confirmation.
-- Investigating a discrepancy
-- Preventing accidental transfers
+- Investigating a discrepancy.
+- Preventing accidental transfers.
 
 ## Viewing Locked Bits
 
