@@ -15,16 +15,16 @@ Use this method to rapidly transfer a bit without navigating through multiple sc
 3. Click on the bit row to open Bit Details.
 4. Click **Quick Send** (or **Send**).
 5. Select the recipient from the dropdown.
-6. Confirm the transfer
-7. The bit is sent immediately.
+6. Confirm the transfer.
+7. The bit status updates to **Sent**.
 
 ## Recipient Options
 
 You can send bits to:
 
-- Another sales representative
-- A different location
-- Back to the warehouse
+- Another sales representative.
+- A different location.
+- Back to the warehouse.
 
 ## Tracking the Transfer
 
