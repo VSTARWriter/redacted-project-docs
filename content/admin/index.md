@@ -1,6 +1,6 @@
 # Admin Guide
 
-This section covers IT Support and administrative functions in Project Documentation.
+This section covers IT Support and administrative functions within Asset Management.
 
 !!! info "Role Requirement"
     The features in this section require the **IT Support** role.
