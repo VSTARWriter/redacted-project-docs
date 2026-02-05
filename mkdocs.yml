@@ -27,7 +27,6 @@ nav:
   - Dashboard: index.md
   - Getting Started:
     - Overview: getting-started/index.md
-    - Quick Start: getting-started/quick-start.md
     - Logging In: getting-started/login.md
     - Navigation: getting-started/navigation.md
   - User Roles:
