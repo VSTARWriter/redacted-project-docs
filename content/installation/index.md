@@ -1,12 +1,12 @@
 # Installation Guide
 
-Project Documentation is available on Desktop (Windows), Mobile (iOS/Android), and iPad.
+Asset Management is available on Desktop (Windows), Mobile (iOS/Android), and iPad.
 
 ## Choose Your Platform
 
 <div class="grid cards" markdown>
 
--   :material-desktop-mac:{ .lg .middle } __Desktop__
+-   :material-desktop-classic:{ .lg .middle }
 
     ---
 
