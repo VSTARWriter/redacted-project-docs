@@ -5,19 +5,18 @@ Process a bit pickup when retrieving bits from a customer location.
 ## Prerequisites
 
 - Field Sales or Billing role
-- Access to eBilling Workbench
 - Bit is currently at a customer location.
 
 ## Steps
 
-1. Navigate to **eBilling Workbench**.
+1. Navigate to the **eBilling Workbench** view from the left menu.
 2. Find the ticket line for the bit.
 3. Click on the ticket line to open the action menu.
-4. Click **Pick Up** (or similar action).
-5. Enter pickup details:
-   - Pickup date
-   - Condition of bit
-   - Any notes
+4. Click the **Pick Up** button.
+5. Enter the pickup details in the displayed dialog:
+    - Pickup date
+    - Condition of bit
+    - Any notes
 6. Review the information
 7. Click **Submit**
 
@@ -32,7 +31,7 @@ When picking up a bit, document:
 
 ## After Pickup
 
-- The bit status updates.
+- The bit status updates to **Picked Up**.
 - The ticket line reflects the pickup.
 - The bit returns to your inventory.
 - You can return it to warehouse or reassign.
