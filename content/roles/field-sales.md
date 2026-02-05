@@ -25,7 +25,7 @@ As a Field Sales user, you have access to:
 
 1. Navigate to the login page.
 2. Enter your **Username** and **Password**.
-3. Click **Log In**
+3. Click the **Log In** button.
 
 You will be taken directly to the My Bits view.
 
@@ -33,7 +33,7 @@ You will be taken directly to the My Bits view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left.
+1. Click the **☰** (hamburger) icon at the top left.
 2. Select the view you want to access.
 
 ## Quick Actions
@@ -80,7 +80,7 @@ When using the mobile app, some features work differently:
 
     On mobile, use the **Sort Order** button instead of column headers:
     
-    1. Tap **Sort Order**
+    1. Tap the **Sort Order** button.
     2. Choose your preferred sort options.
     3. Tap **Sort** or **Sort and Save Sort Order**.
 
@@ -89,7 +89,7 @@ When using the mobile app, some features work differently:
     Mobile uses simplified filtering:
     
     - Only **EBILLING** and **SALES PERSON** filters are available.
-    - No column-specific filters
+    - No column-specific filters are available.
 
 ## Related Documentation
 
