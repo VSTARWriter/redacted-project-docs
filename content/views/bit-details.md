@@ -22,7 +22,7 @@ Click on any bit row in these views to open Bit Details:
 
 ### Location History
 
-- Where the bit has been.
+- Bit locations
 - Transfer dates
 - Previous holders
 
