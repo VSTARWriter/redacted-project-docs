@@ -34,7 +34,7 @@ This is your home page. You'll land here after logging in.
 
 1. Search for the customer rep.
 2. Select the record to edit.
-3. Make your changes
+3. Make your changes.
 4. Save the updated record.
 
 ### Searching Customer Reps
