@@ -6,7 +6,7 @@ Asset Management is available on Desktop (Windows), Mobile (iOS/Android), and iP
 
 <div class="grid cards" markdown>
 
--   :material-desktop-classic:{ .lg .middle }
+- :material-desktop-classic:{ .lg .middle } __Desktop__
 
     ---
 
@@ -14,7 +14,7 @@ Asset Management is available on Desktop (Windows), Mobile (iOS/Android), and iP
 
     [:octicons-arrow-right-24: Desktop Guide](desktop.md)
 
--   :material-cellphone:{ .lg .middle } __Mobile / iPad__
+- :material-cellphone:{ .lg .middle } __Mobile / iPad__
 
     ---
 
@@ -24,60 +24,11 @@ Asset Management is available on Desktop (Windows), Mobile (iOS/Android), and iP
 
 </div>
 
-## Prerequisites
+## Need Help?
 
-### All Platforms
-
-- Active network account
-- Network email and password
-- Multi-factor authentication configured
-
-### Desktop
-
-- Windows computer with Software Center access
-
-### Mobile / iPad
-
-- iOS device
-- Intune Company Portal app installed
-
-## Version Selection
-
-Two versions of the application are available:
-
-| Version | Purpose | Icon Color |
-|---------|---------|------------|
-| **UAT** | Testing and training | Different from Production |
-| **Production** | Live business use | Standard icon |
-
-!!! warning "Choose the Right Version"
-    For daily work, always use the **Production** version. UAT is for testing only.
-
-## After Installation
-
-Once installed, you'll need to:
-
-1. Sign in with your network credentials
-2. Complete multi-factor authentication
-3. Configure your [Profile settings](../features/profile.md)
-
-## Troubleshooting
-
-### Can't Find the Application
-
-Contact IT Support to request access.
-
-### Sign-In Issues
-
-- Verify you're using your network email
-- Check that your password is current
-- Ensure MFA is configured correctly
-
-### General Issues
-
-Contact the **HelpDesk** for technical support.
+If you run into issues during installation, each guide includes a Troubleshooting section. For general support, contact the **HelpDesk**.
 
 ## Related Documentation
 
-- [Profile Settings](../features/profile.md)
 - [Getting Started](../getting-started/index.md)
+- [Profile Settings](../features/profile.md)
