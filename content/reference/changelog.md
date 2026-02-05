@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Project Documentation are documented here.
+All notable changes to Asset Management are documented here.
 
 ## Version C_2025.05.001 (May 2025)
 
@@ -13,7 +13,7 @@ All notable changes to Project Documentation are documented here.
 
 ### Bug Fixes
 
-- Fixed spec sheet differences between BitHub and Project Documentation
+- Fixed spec sheet differences between BitLocker and Asset Management
 - Fixed error: "Cannot read properties of null (reading 'well_name')"
 - Fixed fetch_spec_sheets_subtask log discrepancy
 - Fixed Historical PDF functionality
@@ -67,9 +67,3 @@ All notable changes to Project Documentation are documented here.
 | JCB-1145 | TARIFF SURCHARGE - Toggle |
 | JCB-1146 | TARIFF SURCHARGE - PDF tweaks |
 | JCB-1149 | TARIFF SURCHARGE - Save fix |
-
----
-
-## Previous Versions
-
-Documentation for previous versions is available upon request from IT Support.
