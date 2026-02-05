@@ -9,7 +9,7 @@ Add and edit user accounts in the system.
 
 The ADMIN: Add/Edit Users view is the home page for IT Support users.
 
-![User Management Placeholder](../assets/images/placeholder-table-view.svg)
+![User Management Placeholder](../../assets/images/placeholder-table-view.svg)
 
 ## Adding Users
 

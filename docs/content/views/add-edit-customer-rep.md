@@ -7,7 +7,7 @@ The Add/Edit Customer Rep view allows management of customer representative reco
 
 ## Overview
 
-![Add/Edit Customer Rep Placeholder](../assets/images/placeholder-table-view.svg)
+![Add/Edit Customer Rep Placeholder](../../assets/images/placeholder-table-view.svg)
 
 Use this view to create new customer representative records or modify existing ones.
 

@@ -7,7 +7,7 @@ The My Bits view is the home page for the Field Sales role, displaying all bits 
 
 ## Overview
 
-![My Bits View Placeholder](../assets/images/placeholder-table-view.svg)
+![My Bits View Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The My Bits view shows your assigned bit inventory with quick access to billing and transfer functions.
 

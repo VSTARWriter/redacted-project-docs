@@ -6,7 +6,7 @@ Learn how to navigate the application interface.
 
 Access the navigation menu by clicking the **☰** (hamburger) icon at the top left of any screen.
 
-![Navigation Menu Placeholder](../assets/images/placeholder-table-view.svg)
+![Navigation Menu Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The menu contains:
 
@@ -41,6 +41,20 @@ Home > Find Bits > Bit Details
 ```
 
 Click any breadcrumb to navigate back.
+
+## Role-Specific Home Pages
+
+Each role has a designated home page:
+
+| Role | Home Page |
+|------|-----------|
+| Inventory Manager | Inventory Management |
+| Field Sales | My Bits |
+| Billing | eBilling Workbench |
+| Rep Manager | Add/Edit Customer Rep |
+| Viewer | Find Bits (Lite) |
+| Account Rep | eBilling Workbench |
+| Finance | eBilling Workbench |
 
 ## Mobile Navigation
 

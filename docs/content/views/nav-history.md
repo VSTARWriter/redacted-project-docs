@@ -7,7 +7,7 @@ The Nav History Transactions view displays historical transaction data for bits.
 
 ## Overview
 
-![Nav History Transactions Placeholder](../assets/images/placeholder-table-view.svg)
+![Nav History Transactions Placeholder](../../assets/images/placeholder-table-view.svg)
 
 Use this view to research the history of bit movements and transactions over time.
 

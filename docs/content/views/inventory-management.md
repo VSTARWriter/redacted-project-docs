@@ -7,7 +7,7 @@ The Inventory Management view is the home page for the Inventory Manager role, p
 
 ## Overview
 
-![Inventory Management Placeholder](../assets/images/placeholder-table-view.svg)
+![Inventory Management Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The Inventory Management view displays all bits in your inventory with their current status, location, and details.
 

@@ -12,7 +12,7 @@ Manage user access permissions by district or individual user.
 
 ## Overview
 
-![Permissions View Placeholder](../assets/images/placeholder-table-view.svg)
+![Permissions View Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The Permissions view offers two management approaches:
 

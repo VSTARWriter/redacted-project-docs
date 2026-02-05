@@ -12,7 +12,7 @@ Switch between dark and light display themes for comfortable viewing.
 
 ## Dark Mode
 
-![Dark Mode Placeholder](../assets/images/placeholder-table-view.svg)
+![Dark Mode Placeholder](../../assets/images/placeholder-table-view.svg)
 
 Dark mode features:
 - Dark background colors
@@ -21,7 +21,7 @@ Dark mode features:
 
 ## Light Mode
 
-![Light Mode Placeholder](../assets/images/placeholder-table-view.svg)
+![Light Mode Placeholder](../../assets/images/placeholder-table-view.svg)
 
 Light mode features:
 - Light background colors

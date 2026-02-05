@@ -7,7 +7,7 @@ The eTransfer Tickets view manages electronic transfer tickets for sending and r
 
 ## Overview
 
-![eTransfer Tickets Placeholder](../assets/images/placeholder-table-view.svg)
+![eTransfer Tickets Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The view is divided into two sections:
 

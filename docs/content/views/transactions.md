@@ -7,7 +7,7 @@ The Transactions view displays bit orders and inventory transactions.
 
 ## Overview
 
-![Transactions View Placeholder](../assets/images/placeholder-table-view.svg)
+![Transactions View Placeholder](../../assets/images/placeholder-table-view.svg)
 
 The Transactions view is divided into two sections:
 
