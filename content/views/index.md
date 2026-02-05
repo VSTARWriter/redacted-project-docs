@@ -45,7 +45,7 @@ For detailed information on searching and filtering, see [Searching and Filterin
 Click any row in a data table to:
 
 - View details for that item.
-- Access the action menu
+- Access the action menu.
 - Navigate to related screens.
 
 ## Platform Differences
