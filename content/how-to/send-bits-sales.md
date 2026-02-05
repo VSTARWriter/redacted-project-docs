@@ -10,10 +10,10 @@ Transfer bits from inventory to a field sales representative.
 
 ## Steps
 
-1. Navigate to the **Inventory Management** view.
+1. Navigate to the **Inventory Management** view from the left menu.
 2. Find the bit(s) you want to send.
 3. Click on the bit row to open Bit Details.
-4. Click **Send to Sales**.
+4. Click the **Send to Sales** button.
 5. Select the sales representative from the dropdown.
 6. Select the destination location when prompted.
 7. Confirm the transfer.
@@ -23,9 +23,9 @@ Transfer bits from inventory to a field sales representative.
 
 To send multiple bits at once:
 
-1. Use **Scan Bit Serial No** to add bits to the pending queue.
+1. Use **Scan Bit Serial No** to add bits to the pending queue if on mobile. You must manually enter the **Bit Serial** if on desktop.
 2. Review all bits in the queue.
-3. Select the recipient
+3. Select the recipient.
 4. Submit all transfers together.
 
 ## After Sending
