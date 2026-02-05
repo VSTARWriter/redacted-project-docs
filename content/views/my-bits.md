@@ -64,13 +64,14 @@ Click any row to open the **Bit Details** page for that bit.
 
 ## Common Tasks
 
-| Task | Description |
-|------|-------------|
-| Submit bit order | Request bits from inventory |
-| Send to another rep | Transfer bits to another salesperson |
-| Consign a bit | Set up consignment |
-| Create delivery ticket | Start the billing process |
-| Add bit to ticket | Add bits to existing tickets |
+| Task | How To |
+|------|--------|
+| Submit a bit order | [Submit a Bit Order](../how-to/submit-bit-order.md) |
+| Send to another rep | [Send Bits to Another Sales Rep](../how-to/send-bits-rep.md) |
+| Consign a bit | [Consign a Bit](../how-to/consign-bit.md) |
+| Create delivery ticket | [Create a Delivery Ticket](../how-to/create-delivery-ticket.md) |
+| Add bit to ticket | [Add Bit to Existing Ticket](../how-to/add-bit-ticket.md) |
+| Quick send a bit | [Quickly Send a Bit](../how-to/quick-send.md) |
 
 ## Related Documentation
 

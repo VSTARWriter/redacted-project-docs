@@ -57,12 +57,11 @@ Click **Export to CSV** to download the filtered data as a spreadsheet.
 
 ## Common Tasks
 
-| Task | Description |
-|------|-------------|
-| View pending orders | See orders waiting to be filled |
-| Process bit orders | Send bits from orders |
-| Review transaction history | Track inventory movements |
-| Export data | Download transaction data |
+| Task | How To |
+|------|--------|
+| Process a bit order | [Send Bits from a Bit Order](../how-to/process-bit-order.md) |
+| Submit a bit order | [Submit a Bit Order](../how-to/submit-bit-order.md) |
+| Find a specific bit | [Where Is My Bit?](../how-to/find-my-bit.md) |
 
 ## Related Documentation
 

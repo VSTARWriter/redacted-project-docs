@@ -64,12 +64,13 @@ Click any row in the table to open the **Bit Details** page for that bit.
 
 ## Common Tasks
 
-| Task | Description |
-|------|-------------|
-| Lock a bit | Prevent transfers while processing |
-| Unlock a bit | Allow transfers again |
-| Send to salesperson | Transfer bits to field sales |
-| Return to warehouse | Send bits back to central inventory |
+| Task | How To |
+|------|--------|
+| Lock a bit | [Lock a Bit](../how-to/lock-bit.md) |
+| Unlock a bit | [Unlock a Bit](../how-to/unlock-bit.md) |
+| Send bits to sales | [Send Bits to a Field Salesperson](../how-to/send-bits-sales.md) |
+| Return to warehouse | [Send Bits Back to the Warehouse](../how-to/return-bits.md) |
+| Process a bit order | [Send Bits from a Bit Order](../how-to/process-bit-order.md) |
 
 ## Related Documentation
 

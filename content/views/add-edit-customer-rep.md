@@ -40,11 +40,10 @@ Use the search functionality to find specific customer representatives.
 
 ## Common Tasks
 
-| Task | Description |
-|------|-------------|
-| Add new rep | Create a customer representative record |
-| Edit rep info | Update existing representative details |
-| Search reps | Find specific customer representatives |
+| Task | Steps |
+|------|-------|
+| Add new rep | Navigate to Add/Edit Customer Rep → Fill in required fields → Save |
+| Edit existing rep | Search for the rep → Select record → Update fields → Save |
 
 ## Related Documentation
 
