@@ -5,7 +5,6 @@ Fulfill a bit order request by sending the requested bits.
 ## Prerequisites
 
 - Inventory Manager role
-- Access to Transactions view
 - Pending bit order exists.
 
 ## Steps
