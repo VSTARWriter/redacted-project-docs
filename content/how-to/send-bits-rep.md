@@ -16,7 +16,7 @@ Transfer bits from your inventory to another sales representative.
 4. Click **Send** or **Transfer**.
 5. Select the recipient sales rep from the dropdown.
 6. Confirm the transfer details.
-7. Click **Submit**
+7. Click the **Submit** button.
 
 ## Finding a Recipient
 
