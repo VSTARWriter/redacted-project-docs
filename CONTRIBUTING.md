@@ -1,4 +1,4 @@
-# Contributing to Project Documentation Documentation
+# Contributing to Asset Management Documentation
 
 This guide explains how to contribute to and maintain the documentation.
 
