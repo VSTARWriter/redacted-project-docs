@@ -18,7 +18,7 @@ These features are available to all users regardless of role.
 
 All common features are available from the left navigation menu:
 
-1. Click the **☰** icon at the top left of any screen.
+1. Click the **☰** (hamburger) icon at the top left of any screen.
 2. Scroll to see all available features.
 3. Click to access
 
